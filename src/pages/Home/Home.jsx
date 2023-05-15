@@ -1,11 +1,8 @@
-import styles from './Home.module.scss';
+import styles from "./Home.module.scss";
+import Header from "src/components/Header/Header";
 
-import React from 'react'
+import React from "react";
 
 export default function Home() {
-  return (
-    <div>
-      Home
-    </div>
-  )
+  return <>Home</>;
 }
