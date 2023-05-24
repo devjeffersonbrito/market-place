@@ -1,24 +1,32 @@
 
 .container{
- 
-    ul{
-        list-style: none;
-        padding: 0;
-        margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3em;
+
+    .cart{
+        position: relative;
         display: flex;
-        flex-wrap: wrap;
-        background-color: aquamarine;
-        justify-content:  center;
-        gap: 3em;
 
-        li{
-            font-size: 18px;
-
-            &:hover{
-                color: rgb(15, 51, 213);
-            }
+        svg{
+            font-size: 35px;
+            color: black;
         }
-
+        div{
+            position: absolute;
+            top:-5px;
+            left:20px;
+            font-size:18px;
+            background-color: red;
+            color: white;
+            border-radius: 50%;
+            height: 22px;
+            width: 22px;
+            padding: .1em;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
     }
 
 }
