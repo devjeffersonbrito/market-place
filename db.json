@@ -1,0 +1,45 @@
+{
+    "products": [
+      {
+        "price": "8000",
+        "name": "Iphone 14",
+        "color": "Prata",
+        "urlImage": "https://m.media-amazon.com/images/I/61aSwDVpVpL._AC_SY450_.jpg",
+        "id": "98a42bd7-ac42-4706-84e4-6f1870b7ac12",
+        "favorite": true
+      },
+      {
+        "price": "3800",
+        "name": "Samsung 10",
+        "color": "Chumbo",
+        "urlImage": "https://m.media-amazon.com/images/I/61aSwDVpVpL._AC_SY450_.jpg",
+        "id": "98a42bd7-ac42-4706-84e4-6f1870b7ac13",
+        "favorite": true
+      },
+      {
+        "price": "4500",
+        "name": "Xiomi Redmi",
+        "color": "Prata",
+        "urlImage": "https://m.media-amazon.com/images/I/61aSwDVpVpL._AC_SY450_.jpg",
+        "id": "98a42bd7-ac42-4706-84e4-6f1870b7ac14",
+        "favorite": true
+      },
+      {
+        "price": "6000",
+        "name": "Motorola X",
+        "color": "Preto",
+        "urlImage": "https://m.media-amazon.com/images/I/61aSwDVpVpL._AC_SY450_.jpg",
+        "id": "98a42bd7-ac42-4706-84e4-6f1870b7ac18",
+        "favorite": true
+      },
+      {
+        "price": "4000",
+        "name": "Nokia 12",
+        "color": "Prata",
+        "urlImage": "https://m.media-amazon.com/images/I/61aSwDVpVpL._AC_SY450_.jpg",
+        "id": "98a42bd7-ac42-4706-84e4-6f1870b7ac16",
+        "favorite": true
+      }
+      
+    ]
+  }

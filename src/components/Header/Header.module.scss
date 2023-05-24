@@ -2,7 +2,7 @@
 
 .container {
   width: 100%;
-  min-height: 100px;
+  min-height: 60px;
   background-color: rgb(235, 235, 235);
 
   .header {
@@ -10,7 +10,7 @@
     align-items: center;
     justify-content: space-between;
     flex-wrap: wrap;
-    padding: 1em 2em;
+    padding: 0.5em 3em;
 
     a {
       text-decoration: none;
